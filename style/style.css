@@ -1,0 +1,45 @@
+body{
+    background-color:rgb(242, 224, 200);
+}
+
+h1{
+    text-align: center;
+    color: rgb(145, 145, 144);
+    
+}
+
+a{
+    text-align: center;
+    color: rgb(145, 145, 144);
+}
+
+a:hover{
+    color: lightpink;
+}
+
+
+#ariana01{
+    width: 25%;
+    border-radius: 15%;
+    float: right;
+    margin: 50px 60px 50px 100px;
+}
+
+p{
+    color: grey;
+    text-align: center;
+    margin: 90px;
+}
+
+h2{
+    color:rgb(145, 145, 144);
+    text-align: center;
+}
+
+#ariana02{
+    width: 25%;
+    border-radius: 15%;
+    float: left;
+    margin: 80px 60px 50px 100px;
+
+}
