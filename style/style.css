@@ -1,45 +1,95 @@
 body{
-    background-color:rgb(242, 224, 200);
+    background-color:rgb(245, 232, 214);
 }
 
 h1{
     text-align: center;
-    color: rgb(145, 145, 144);
+    color: rgb(88, 59, 50);
+    font-size: 255%;
     
 }
 
-a{
-    text-align: center;
-    color: rgb(145, 145, 144);
+.origem{
+    color: rgb(77, 51, 45);
+    text-align: left;
+    margin: 150px 50px 50px 30px;
 }
 
-a:hover{
+.cabecalho{
+    margin: 20px 490px 50px 50px;
+    font-size: 110%;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    color: rgb(110, 73, 64);
+    text-align: center;
+}
+
+.menu-link{
+    color: rgb(110, 73, 64);
+    text-align: center;
+    width: 100%;
+    margin: 0;
+}
+
+.menu-lista{
+    color: rgb(110, 73, 64);
+    text-align: center;
+    width: 100%;
+    margin: 0;
+}
+
+.menu-lista:hover{
     color: lightpink;
 }
 
+.divisor{
+    border: none;
+    height: 2px; 
+    background-color: rgb(110, 73, 64); 
+    margin: 50px auto;
+}
 
 #ariana01{
     width: 25%;
     border-radius: 15%;
-    float: right;
-    margin: 50px 60px 50px 100px;
+    float: left;
+    margin: 40px 60px 50px 80px;
 }
 
 p{
-    color: grey;
-    text-align: center;
-    margin: 90px;
+    color: rgb(110, 73, 64);
+    text-align: left;
+    margin: 10px;
 }
 
-h2{
-    color:rgb(145, 145, 144);
+.carreira{
+    color: rgb(77, 51, 45);
     text-align: center;
+    margin: 170px 50px 0px 30px;
 }
 
-#ariana02{
+.inicio-carreira01{
     width: 25%;
     border-radius: 15%;
-    float: left;
-    margin: 80px 60px 50px 100px;
-
+    margin: 10px 10px 100px 160px;
 }
+
+.inicio-carreira02{
+    width: 25%;
+    border-radius: 15%;
+    margin: 100px 20px 100px 0px;
+}
+
+.inicio-carreira03{
+    width: 25%;
+    border-radius: 15%;
+    margin: 100px 10px 100px 0px;
+}
+
+.descricao-carreira{
+    color: rgb(66, 44, 39);
+    text-align: center;
+}
+
+
